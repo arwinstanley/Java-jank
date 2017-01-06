@@ -1,0 +1,24 @@
+public class Cool{
+
+   public boolean isPalindrome(String word){
+   
+      int length= word.length();
+      String palin;
+      for (int x = length-1; x >=0; x--){
+      
+      palin= palin.charAt(x);
+      
+      
+      }
+   
+   if (word.equals(palin){
+      return true;
+   return false;
+   
+   }
+
+
+
+
+
+}
